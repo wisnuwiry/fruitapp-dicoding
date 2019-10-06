@@ -10,3 +10,5 @@ List Fruit | Grid Fruit | Fruit Detail | Profile
 
 ## Certificate
 ![Certificate](https://github.com/SaputraGo/fruitapp-dicoding/blob/master/ss/cf.png)
+
+Thanks All...
